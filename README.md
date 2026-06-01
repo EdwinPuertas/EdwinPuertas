@@ -65,8 +65,8 @@ I'm a **PhD in Computer Science** and researcher at the [Universidad Tecnológic
 > _Full list on [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID) · [ORCID](https://orcid.org/0000-0002-0758-1851) · [Scienti MinCiencias](https://scienti.minciencias.gov.co/)_
 
 - 📄 **A sustainability maturity model for micro, small and medium-sized enterprises (MSMEs) based on a data analytics evaluation approach** — *Journal, 2021* · [DOI](http://doi.org/10.1016/j.jclepro.2021.127692)
-- 📄 **[Paper Title 2]** — *Journal/Conference, Year* · [DOI](#)
-- 📄 **[Paper Title 3]** — *Journal/Conference, Year* · [DOI](#)
+- 📄 **Detection of Sociolinguistic Features in Digital Social Networks for the Detection of Communities** — *Journal, 2021* · [DOI(https://doi.org/10.1007/s12559-021-09818-9)
+- 📄 **Cost-Effectiveness Analysis of Strategies of COVID-19 Vaccination in Colombia: Comparison of High-Risk Prioritization and No Prioritization Strategies With the Absence of a Vaccination Plan** — *Journal, 2022* · [DOI](https://doi.org/10.1016/j.vhri.2022.04.004)
 
 ---
 
