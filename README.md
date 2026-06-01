@@ -54,8 +54,22 @@ I'm a **PhD in Computer Science** and researcher at the [Universidad Tecnológic
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EdwinPuertas&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinPuertas&layout=compact&theme=github_dark&hide_border=true"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdwinPuertas&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=3600"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinPuertas&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=3600"/>
+
+</div>
+
+<div align="center">
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=EdwinPuertas&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=3600"/>
+
+</div>
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EdwinPuertas&theme=github-compact&hide_border=true&area=true"/>
+
 </div>
 
 ---
