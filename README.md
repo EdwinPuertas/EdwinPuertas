@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/edwinpuertas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://x.com/edwinpuertas"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+    <a href="https://x.com/OafToBark23"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://orcid.org/0000-0002-0758-1851"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
     <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
     <a href="https://edwinpuertas.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -64,7 +64,7 @@ I'm a **PhD in Computer Science** and researcher at the [Universidad Tecnológic
 
 > _Full list on [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID) · [ORCID](https://orcid.org/0000-0002-0758-1851) · [Scienti MinCiencias](https://scienti.minciencias.gov.co/)_
 
-- 📄 **[Paper Title 1]** — *Journal/Conference, Year* · [DOI](#)
+- 📄 **A sustainability maturity model for micro, small and medium-sized enterprises (MSMEs) based on a data analytics evaluation approach** — *Journal, 2021* · [DOI](http://doi.org/10.1016/j.jclepro.2021.127692)
 - 📄 **[Paper Title 2]** — *Journal/Conference, Year* · [DOI](#)
 - 📄 **[Paper Title 3]** — *Journal/Conference, Year* · [DOI](#)
 
