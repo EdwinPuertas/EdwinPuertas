@@ -26,7 +26,28 @@ I'm a **PhD in Computer Science** and researcher at the [Universidad Tecnológic
 
 ---
 
-## 🔭 Research & Projects
+## 🏛️ VerbaNexAI Lab
+
+<a href="https://github.com/VerbaNexAI">
+  <img src="https://img.shields.io/badge/🔬_VerbaNexAI_Lab-Explore_our_research-2F81F7?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://verbanexai.github.io">
+  <img src="https://img.shields.io/badge/🌐_Website-verbanexai.github.io-FF5722?style=for-the-badge"/>
+</a>
+
+I lead **[VerbaNexAI Lab](https://github.com/VerbaNexAI)** at UTB — a research group exploring the convergence of **NLP, AI, and computational linguistics**. Our work spans shared tasks (IberLEF, SemEval, CLEF), hate speech detection, computer vision, and applied AI for Spanish-speaking communities.
+
+| Research Line | Featured Repo |
+|---------------|--------------|
+| 🗣️ NLP & Hate Speech | [PhoneticHateSpeech](https://github.com/VerbaNexAI/PhoneticHateSpeech) |
+| 🏆 Shared Tasks | [IberLEF2025](https://github.com/VerbaNexAI/IberLEF2025) · [CLEF2025](https://github.com/VerbaNexAI/CLEF2025) · [SemEval2025](https://github.com/VerbaNexAI/SemEval2025) |
+| 👁️ Computer Vision | [Bacteria-morphology-classification](https://github.com/VerbaNexAI/Bacteria-morphology-classification) |
+| 📊 Applied AI | [SmartlinkAnalytics](https://github.com/VerbaNexAI/SmartlinkAnalytics) · [TPM](https://github.com/VerbaNexAI/TPM) |
+
+---
+
+## 🔭 Personal Research Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
